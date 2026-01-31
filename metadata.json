@@ -1,0 +1,7 @@
+{
+  "name": "OrientaMed - Orientação de Saúde",
+  "description": "Uma plataforma de orientação em saúde e triagem pré-hospitalar focada em fornecer suporte imediato e direcionamento seguro, sem realizar diagnósticos médicos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
